@@ -45,7 +45,6 @@
 </div>
 
 <div>
-![Snake animation](https://github.com/luziberto/luziberto/blob/output/github-contribution-grid-snake.svg)
 
 
 
